@@ -2,7 +2,7 @@
 
 SQL analysis of 96,470 delivered orders from a Brazilian e-commerce marketplace, examining whether a strong on-time delivery rate actually reflects reliable delivery.
 
-**[View the dashboard](https://datastudio.google.com/reporting/080027a2-afe3-43e7-9c4c-10b8159b7fd0)** (Looker Studio)
+
 
 ![Dashboard](images/dashboard.png)
 
